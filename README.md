@@ -1,4 +1,15 @@
-### Hi there 👋
+### Gabriel Mantini GITHUB
+
+## About Me
+- Data Science Graduate Student at Florida Polytechnic University
+- Sports Analytics + Esports Enthusiast
+
+*Projects*
+- R Shiny App for comparing similar NFL players in Madden using K-Nearest Neighbors
+- 
+
+## Contact
+- gmantini023@gmail.com
 
 <!--
 **gmantini/gmantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
