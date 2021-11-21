@@ -6,7 +6,7 @@
 
 *Projects*
 - R Shiny App for comparing similar NFL players in Madden using K-Nearest Neighbors
-- 
+- Exploratory Data Analysis of FIFA World Cup Attendance
 
 ## Contact
 - gmantini023@gmail.com
