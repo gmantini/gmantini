@@ -1,4 +1,4 @@
-### Gabriel Mantini GITHUB
+### Gabriel Mantini GITHUB Profile
 
 ## About Me
 - Data Science Graduate Student at Florida Polytechnic University
